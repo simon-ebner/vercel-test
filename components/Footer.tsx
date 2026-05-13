@@ -23,7 +23,7 @@ export default function Footer() {
               <li>21423 Winsen (Luhe)</li>
               <li>
                 <a href="tel:+4941719876543" className="hover:text-white">
-                  +49 4171 987 65 43
+                  +49 15755000089
                 </a>
               </li>
               <li>

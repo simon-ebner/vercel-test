@@ -86,7 +86,7 @@ export default function Contact() {
                   <dt className="font-semibold text-slate-900">Telefon</dt>
                   <dd className="text-slate-600">
                     <a href="tel:+4941719876543" className="hover:text-brand-600">
-                      +49 4171 987 65 43
+                      +49 15755000089
                     </a>
                   </dd>
                 </div>
